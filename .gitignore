@@ -1,0 +1,7 @@
+node_modules/
+temp/*
+!temp/.gitkeep
+.env
+ormconfig.json
+coverage/
+
